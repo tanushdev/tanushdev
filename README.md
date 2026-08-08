@@ -5,18 +5,6 @@
 <h1 align="center">TANUSH</h1>
 <p align="center"><b>AI ENGINEER — FULL STACK</b></p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tanushshyam/">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:tanushshyam42@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-CONTACT-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://tanushdev.me/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-VISIT-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
-
 <br>
 
 ## ABOUT
