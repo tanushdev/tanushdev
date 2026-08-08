@@ -23,25 +23,6 @@
 Full Stack Engineer at XEE Design, working across web platforms and applied machine learning. Recent Computer Engineering graduate with a research-oriented approach to building systems.
 Recent work includes a vector search engine with sub-50ms query latency and fine-tuning workflows for 3B-parameter models on consumer hardware. Comfortable across the stack — from database query optimization to model training.
 
-## GITHUB ACTIVITY
-
-<img src="https://img.shields.io/badge/DATA-LIVE-e8e4d8?style=flat-square&labelColor=000000" alt="data" />
-
-<p align="center">
-  <a href="https://github.com/TanushDev">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TanushDev&cache_seconds=7200&layout=compact&theme=dark&border_radius=4&hide_border=true" alt="GitHub stats" />
-  </a>
-  <img height="180em" src="https://streak-stats.demolab.com/?user=TanushDev&theme=dark&hide_border=true&cache_seconds=86400&border_radius=4" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/TanushDev">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TanushDev&langs_count=8&layout=compact&theme=dark&border_radius=4&hide_border=true" alt="Top languages" />
-  </a>
-</p>
-
-<br>
-
 ## CONNECT
 <p align="center">
   <picture>
