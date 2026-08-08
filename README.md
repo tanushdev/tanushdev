@@ -1,18 +1,11 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tanushdev/tanushdev/refs/heads/main/banner.jpg" alt="Tanush banner" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ADVISORY-PRODUCTION_CODE-000000?style=for-the-badge&labelColor=000000&color=e8e4d8" alt="Advisory badge" />
+  <img src="https://raw.githubusercontent.com/tanushdev/tanushdev/refs/heads/main/banner.jpg" alt="Tanush banner" height="50%"width="100%" />
 </p>
 
 <h1 align="center">TANUSH</h1>
 <p align="center"><b>AI ENGINEER — FULL STACK</b></p>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=TanushDev">
-    <img src="https://komarev.com/ghpvc/?username=TanushDev&label=VIEWS&color=000000&style=for-the-badge" alt="Profile views" />
-  </a>
   <a href="https://www.linkedin.com/in/tanushshyam/">
     <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -27,18 +20,12 @@
 <br>
 
 ## ABOUT
-
-<img src="https://img.shields.io/badge/RATED-OVERQUALIFIED-e8e4d8?style=flat-square&labelColor=000000" alt="rated" />
-
 Full Stack Engineer at XEE Design, working across web platforms and applied machine learning. Recent Computer Engineering graduate with a research-oriented approach to building systems.
-
 Recent work includes a vector search engine with sub-50ms query latency and fine-tuning workflows for 3B-parameter models on consumer hardware. Comfortable across the stack — from database query optimization to model training.
 
 <br>
 
 ## FOCUS AREAS
-
-<img src="https://img.shields.io/badge/CONTAINS-NO_FRAMEWORK_FEAR-e8e4d8?style=flat-square&labelColor=000000" alt="contains" />
 
 | | |
 |---|---|
@@ -130,6 +117,3 @@ Recent work includes a vector search engine with sub-50ms query latency and fine
   </picture>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/ADVISORY-HANDLE_WITH_INTENT-000000?style=for-the-badge&labelColor=000000&color=e8e4d8" alt="footer advisory" />
-</p>
