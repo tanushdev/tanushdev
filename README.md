@@ -5,11 +5,13 @@
 <h1 align="center">TANUSH</h1>
 <p align="center"><b>AI ENGINEER — FULL STACK</b></p>
 <br>
+</p>
+## About
 
 Full Stack Engineer at XEE Design, working across web platforms and applied machine learning. Recent Computer Engineering graduate with a research-oriented approach to building systems.
 Recent work includes a vector search engine with sub-50ms query latency and fine-tuning workflows for 3B-parameter models on consumer hardware. Comfortable across the stack — from database query optimization to model training.
 
-## CONNECT
+## Connect
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
