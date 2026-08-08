@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.jpg" alt="Tanush banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/tanushdev/tanushdev/refs/heads/main/banner.jpg" alt="Tanush banner" width="100%" />
 </p>
 
 <p align="center">
