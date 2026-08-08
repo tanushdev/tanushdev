@@ -4,7 +4,6 @@
 
 <h1 align="center">TANUSH</h1>
 <p align="center"><b>AI ENGINEER — FULL STACK</b></p>
-<br>
 </p>
 
 ## About
